@@ -1,0 +1,126 @@
+*{
+margin:0;
+padding:0;
+}
+.clear{
+clear:both;
+}
+a{
+text-decoration:none;
+}
+
+/*----------------------------logo-login------------------------------*/
+
+#container{
+background-color:#f0f2f5;
+font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.logo-login{
+width:1150px;
+margin:0 auto;
+padding:150px 0 200px 0;
+}
+
+/*----------------------logo-------------------------------*/
+.logo{
+width:50%;
+float:left;
+padding:40px;
+box-sizing:border-box;
+}
+.logo img{
+width:300px;
+}
+.logo h3{
+margin-left:25px;
+font-weight:200;
+font-size:25px;
+}
+
+/*----------x------------logo-----------x--------------------*/
+
+/*-----------------------login--------------------------------*/
+.login{
+width:50%;
+float:left;
+
+
+}
+.login-0{
+width:400px;
+margin-left:80px;
+text-align:center;
+}
+
+.login-1{
+
+background-color:white;
+padding:15px;
+display:inline-block;
+border-radius:8px;
+box-shadow:2px 3px 2px  #bfbfbf;
+
+}
+
+input[type="text"],input[type="password"]{
+width:100%;
+display:inline-block;
+padding:15px;
+box-sizing:border-box;
+border-radius:8px;
+border:1px solid #dddfe2;
+font-size:18px;
+
+}
+input[type="password"]{
+margin-top:10px;
+
+}
+
+input[type="submit"]{
+width:100%;
+display:inline-block;
+padding:11px;
+box-sizing:border-box;
+border-radius:8px;
+border:none;
+font-size:21px;
+background-color:#0c6bfa;
+color:white;
+font-weight:bold;
+margin-top:18px;
+}
+.forgotten-password{
+margin-top:18px;
+display:inline-block;
+color: #1877f2;
+font-size:14px;
+}
+.pas-border{
+border-bottom:1px solid #dddfe2;
+margin:20px 0;
+}
+.create-new-account{
+color:white;
+background-color:#42b72a;
+padding:14px;
+font-size:18px;
+font-weight:bold;
+border-radius:5px;
+margin:8px 0;
+display:inline-block;
+}
+
+.create-page{
+margin-top:40px;
+}
+.create-page a{
+color:black;
+font-weight:bold;
+font-size:15px;
+}
+/*-----------------------login--------------------------------*/
+
+/*-------------x---------------logo-login-------------x-----------------*/
+
+/*
